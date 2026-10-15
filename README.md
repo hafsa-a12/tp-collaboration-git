@@ -1,4 +1,4 @@
 # TP Collaboration Git
 
-Modification par Etudiant A
-Modification par Etudiant B
+Bienvenue dans notre projet Git realise en collaboration
+par les etudiants A et B.
